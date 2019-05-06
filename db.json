@@ -1,4 +1,22 @@
 {
+	"user": [
+		{
+			"id": 1,
+			"userName": "weldo",
+			"email": "weldo@test.com",
+			"password": "123",
+			"fullName": "Weldo Gomes",
+			"joinDate": "2019-01-01"
+		},
+		{
+			"id": 2,
+			"userName": "lucas",
+			"email": "luas@test.com",
+			"password": "123",
+			"fullName": "Lucas Cavalcante",
+			"joinDate": "2019-01-01"
+		}
+	],
 	"weldo-photos": [
 	    {
 	      "id": 1,
